@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+19:59:15
+/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/au_top.v,1597502290,verilog,,,,au_top,,,,,,,,
+/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/counter.v,1597502673,verilog,,/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/pwm.v,,counter,,,,,,,,
+/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/pwm.v,1597438724,verilog,,/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/reset_conditioner.v,,pwm,,,,,,,,
+/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/reset_conditioner.v,1597415401,verilog,,/home/edi/FPGA_workspace/Au-Base-Project/au_base_project.srcs/sources_1/new/au_top.v,,reset_conditioner,,,,,,,,
